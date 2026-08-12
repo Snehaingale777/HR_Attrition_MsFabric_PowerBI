@@ -1,6 +1,6 @@
 # HR_Attrition_MsFabric_PowerBI
 
-Tools: Microsoft Fabric (Dataflow Gen2, Lakehouse, Semantic Model), Power BI Dataset: IBM HR Employee Attrition dataset (1,470 employees) Live report: [add your link here]
+Tools: Microsoft Fabric (Dataflow Gen2, Lakehouse, Semantic Model), Power BI Dataset: IBM HR Employee Attrition dataset (1,470 employees) Live report:(https://github.com/Snehaingale777/Fabric/blob/main/HR-Employee-Attrition.csv)
 
 Why I built this
 
