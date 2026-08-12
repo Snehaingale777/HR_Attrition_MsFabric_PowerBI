@@ -32,6 +32,7 @@ So basically, the people most likely to leave are young, single, lower-paid Sale
 Screenshots
 
 https://github.com/Snehaingale777/HR_Attrition_MsFabric_PowerBI/blob/main/df_HR_s.jpg
+https://github.com/Snehaingale777/HR_Attrition_MsFabric_PowerBI/blob/main/lh_HR_s.jpg
 
 
 What I'd improve
