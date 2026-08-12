@@ -35,6 +35,7 @@ https://github.com/Snehaingale777/HR_Attrition_MsFabric_PowerBI/blob/main/df_HR_
 https://github.com/Snehaingale777/HR_Attrition_MsFabric_PowerBI/blob/main/lh_HR_s.jpg
 https://github.com/Snehaingale777/HR_Attrition_MsFabric_PowerBI/blob/main/HR%20semantic.jpg
 https://github.com/Snehaingale777/HR_Attrition_MsFabric_PowerBI/blob/main/HR_Attrition__Overview_report.jpg
+https://github.com/Snehaingale777/HR_Attrition_MsFabric_PowerBI/blob/main/HR_Attrition_Deep_Dive_report.jpg
 
 
 What I'd improve
